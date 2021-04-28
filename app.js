@@ -46,7 +46,7 @@ itemDiv.className ="ingredient-div"
  itemDiv.innerHTML = `
         <div class="card mt-4 show-detail ">
             <img src="${item.strMealThumb}">
-            <h3 class ="text-center">${item.strMeal}</h3>
+            <h3 class="text-center">${item.strMeal}</h3>
            
         </div>
         <div id = "ingredients" class ="mt-3">
