@@ -1,0 +1,16 @@
+body{
+   margin-top: 100px;
+    
+}
+.search-box{
+    display: flex;
+    
+}
+.show-detail{
+    width: 300px;
+}
+.ingredient-div{
+    margin-left: 25%;
+}
+
+
